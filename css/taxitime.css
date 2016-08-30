@@ -63,3 +63,11 @@ table tbody tr {
   background-color: #fafafa; }
 table tbody tr:nth-child(even) {
   background-color: #f0f090; }
+
+#magellan {
+  margin-top: 50px;
+  padding-right: 10px;
+  text-align: right; }
+#magellan li a {
+  padding-bottom: 8px;
+  padding-top: 8px; }
