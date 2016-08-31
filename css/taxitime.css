@@ -1,9 +1,11 @@
 body{
   background-color: #f5e050;}
+  
 .header {
   text-align: center;
   background-size: cover;
-  padding: 4rem; }
+  padding: 4rem;
+  margin-bottom: 40px; }
 .header .main-header {
   color: #666; }
 .header-subnav {
@@ -33,7 +35,7 @@ body{
   transition: all .25s ease-in-out; }
 .header-subnav li ul a:hover {
   border-left-color: #000000; }
-.header-subnav li ul a {
+.header-subnav li ul a{
   border-left: 10px solid #f8e784; }
 
 #smallmenu li a {
@@ -74,3 +76,6 @@ table tbody tr:nth-child(even) {
 #magellan li a {
   padding-bottom: 8px;
   padding-top: 8px; }
+
+footer{
+  font-size: 80%; }
